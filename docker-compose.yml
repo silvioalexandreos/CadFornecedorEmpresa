@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  cadempresafornecedor.api:
+    image: ${DOCKER_REGISTRY-}cadempresafornecedorapi
+    build:
+      context: .
+      dockerfile: CadEmpresaFornecedor.Api/Dockerfile
