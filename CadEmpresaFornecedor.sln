@@ -9,7 +9,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "host", "host", "{4DE496C2-4
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "x - core", "x - core", "{436A8D05-0067-4ADA-8CEF-B6E9C294FF52}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CadEmpresaFornecedor.Service", "CadEmpresaFornecedor.Service\CadEmpresaFornecedor.Service.csproj", "{F34260D6-FF62-4911-8C1D-FB125C055C6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CadEmpresaFornecedor.Services", "CadEmpresaFornecedor.Service\CadEmpresaFornecedor.Services.csproj", "{F34260D6-FF62-4911-8C1D-FB125C055C6E}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CadEmpresaFornecedor.Api", "CadEmpresaFornecedor.Api\CadEmpresaFornecedor.Api.csproj", "{6E9F31AC-0934-4AE2-9A45-D24B2BCCB837}"
 EndProject
